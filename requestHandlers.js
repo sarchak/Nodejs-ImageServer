@@ -10,6 +10,8 @@ function start(request,response){
     'content="text/html; charset=UTF-8" />'+
     '</head>'+
     '<body>'+
+	'<h3> Simple Image Server in Node.js </h3>'+
+	'<p> Please Select a file and upload </p>'+
     '<form action="/upload" enctype="multipart/form-data" '+
     'method="post">'+
     '<input type="file" name="upload">'+
