@@ -1,1 +1,4 @@
 A Simple image server written in Node.js. http://localhost:8000/show will show the latest image uploaded to the server.
+
+Demo:
+http://warm-fire-4362.herokuapp.com/
