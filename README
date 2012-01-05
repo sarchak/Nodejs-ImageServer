@@ -1,0 +1,1 @@
+A Simple image server written in Node.js. http://localhost:8000/show will show the latest image uploaded to the server.
