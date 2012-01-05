@@ -1,0 +1,7 @@
+{
+  "name": "Nodejs-ImageServer",
+  "version": "0.0.1",
+  "dependencies": {
+    "formidable": "1.0.8"
+  }
+}
